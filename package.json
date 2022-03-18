@@ -1,12 +1,13 @@
 {
   "author": "Adam Dias <adam.dias@outlook.com>",
-  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "workspaces": [
     "packages/*"
   ],
   "license": "MIT",
   "devDependencies": {
     "lerna": "^4.0.0"
-  },
-  "version": "1.0.0"
+  }
 }
