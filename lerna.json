@@ -6,7 +6,10 @@
   "command": {
     "publish": {
       "conventionalCommits": true,
-      "noVerifyAccess": true
+      "noVerifyAccess": true,
+      "yes": true,
+      "gitHead": false,
+      "noGitReset": true
     }
   }
 }
