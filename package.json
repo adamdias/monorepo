@@ -1,0 +1,7 @@
+{
+  "author": "Adam Dias <adam.dias@outlook.com>",
+  "workspaces": [
+    "packages/*"
+  ],
+  "license": "MIT"
+}
