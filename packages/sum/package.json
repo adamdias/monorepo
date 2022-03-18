@@ -1,7 +1,7 @@
 {
   "name": "@adamdias-monorepo/sum",
-  "version": "1.1.9",
-  "gitHead": "3be895b0d0f23e3bdc0bf8eee4429f57827d297f",
+  "version": "1.1.10-alpha.0+e23329f",
+  "gitHead": "e23329f4b24f192934611281a6787b626299881f",
   "license": "MIT",
   "publishConfig": {
     "access": "public"

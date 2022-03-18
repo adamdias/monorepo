@@ -6,8 +6,7 @@
   "command": {
     "publish": {
       "conventionalCommits": true,
-      "yes": true,
-      "gitHead": false
+      "yes": true
     }
   }
 }
