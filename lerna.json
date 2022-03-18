@@ -7,7 +7,7 @@
     "publish": {
       "conventionalCommits": true,
       "yes": true,
-      "canary": true
+      "gitHead": false
     }
   }
 }

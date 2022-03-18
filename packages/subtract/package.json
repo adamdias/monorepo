@@ -1,7 +1,7 @@
 {
   "name": "@adamdias-monorepo/subtract",
   "version": "0.1.8",
-  "gitHead": "7c1f8ed5c4ad6717342d7ffc4e2b5ed0e6dd13a5",
+  "gitHead": "false",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
