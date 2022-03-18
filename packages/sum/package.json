@@ -3,8 +3,5 @@
   "version": "1.1.4",
   "gitHead": "c6223661021c393c7265135f095260d7d07ae89b",
   "license": "MIT",
-  "private": false,
-  "scripts": {
-    "publish-npm": "npm publish --access public"
-  }
+  "private": false
 }

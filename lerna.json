@@ -6,7 +6,7 @@
   "command": {
     "publish": {
       "conventionalCommits": true,
-      "noVerifyAccess": true,
+      "noVerifyAccess": false,
       "yes": true,
       "gitHead": false,
       "noGitReset": true

@@ -4,9 +4,6 @@
   "workspaces": [
     "packages/*"
   ],
-  "scripts": {
-    "publish-npm": "lerna publish --skip-npm && lerna run publish-npm"
-  },
   "license": "MIT",
   "devDependencies": {
     "lerna": "^4.0.0"
