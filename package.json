@@ -1,6 +1,6 @@
 {
   "author": "Adam Dias <adam.dias@outlook.com>",
-  "private": true,
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
