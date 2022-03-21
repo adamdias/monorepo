@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/adamdias/monorepo/compare/@adamdias-monorepo/subtract@0.1.10-alpha.2...@adamdias-monorepo/subtract@0.4.0) (2022-03-21)
+
+
+### Features
+
+* update package.json ([ab939ea](https://github.com/adamdias/monorepo/commit/ab939ea548b17ec77ed805474e985c7e2624b16b))
+
+
+
+
+
 # 0.3.0 (2022-03-18)
 
 

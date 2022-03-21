@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/adamdias/monorepo/compare/@adamdias-monorepo/sum@1.1.10-alpha.2...@adamdias-monorepo/sum@1.4.0) (2022-03-21)
+
+
+### Features
+
+* update package.json ([ab939ea](https://github.com/adamdias/monorepo/commit/ab939ea548b17ec77ed805474e985c7e2624b16b))
+
+
+
+
+
 # 1.3.0 (2022-03-18)
 
 
